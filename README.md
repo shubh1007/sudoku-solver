@@ -1,7 +1,7 @@
 # sudoku-solver
 A JavaScript-based Sudoku game and solver, featuring a Sudoku puzzle generator, an interactive user interface, and an algorithm for solving Sudoku puzzles.
 
-Welcome to [Sudoku Solver]! We're thrilled that you're interested in contributing to this project. Please take a moment to review the following guidelines to make your contribution process smooth and enjoyable.
+Welcome to Sudoku Solver! We're thrilled that you're interested in contributing to this project. Please take a moment to review the following guidelines to make your contribution process smooth and enjoyable.
 
 ## How to Contribute
 
