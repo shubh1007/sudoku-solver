@@ -1,7 +1,12 @@
+import React from "react";
+import Form from "./Form";
+
+var userIsRegistered = true;
+
 function App() {
   return (
-    <div className="App">
-
+    <div className="container">
+      <Form regiDetail={userIsRegistered} />
     </div>
   );
 }
